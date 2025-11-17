@@ -6,7 +6,7 @@
 Use a known UX problem (e.g., booking an appointment in a hospital app).
 Task:
 Conduct crazy 8s or brainwriting ideation exercise.
-Generate multiple low-fidelity ideas.
+Generate multiple low-fidelity ideas. 
 2.     Creating User Stories
 
 Use personas and their goals to write user stories.
